@@ -14,5 +14,10 @@
         "psr-0": {
             "CSRF": "Src/"
         }
-    }
+    },
+    "extra": {
+        "branch-alias": {
+          "dev-master": "dev-master"
+        }
+      }
 }
